@@ -8,3 +8,7 @@
 --Pivot tables for customer commute distanc
 --Pivot table for customer age bracket
 --Inserted slicers such as marital status,education,region for pivot charts
+
+Screenshot of interactive dashboard
+![image](https://github.com/varundeepakgudhe/bike_sales_excel/assets/112991463/0ba84fa3-bc6b-4461-8cda-38f335b88611)
+
